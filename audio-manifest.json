@@ -1,0 +1,1814 @@
+{
+  "voice": "en-GB-RyanNeural",
+  "rate": "-5%",
+  "files": {
+    "An unclear definition can lead to confusion.": {
+      "src": "audio/d7c25629c2d305ca.mp3",
+      "seconds": 3.528
+    },
+    "After summarising the results, she went on to discuss the limitations.": {
+      "src": "audio/f844afcd3e41df6b.mp3",
+      "seconds": 4.992
+    },
+    "A clear diagram can make up for a lack of detail.": {
+      "src": "audio/6571054319b0e633.mp3",
+      "seconds": 3.816
+    },
+    "Clear examples contribute to a better understanding of the rule.": {
+      "src": "audio/fbdd26ee054bdeaa.mp3",
+      "seconds": 4.488
+    },
+    "Connect the laptop to the projector.": {
+      "src": "audio/28f8896b258cb8b1.mp3",
+      "seconds": 2.904
+    },
+    "Could I speak to the person in charge?": {
+      "src": "audio/c1b4a44cd91f045f.mp3",
+      "seconds": 2.952
+    },
+    "Could you ask the organiser to confirm the time?": {
+      "src": "audio/736a2958dedfb04e.mp3",
+      "seconds": 3.504
+    },
+    "Could you explain the difference to me?": {
+      "src": "audio/0416fc39b08c1918.mp3",
+      "seconds": 2.808
+    },
+    "Could you get a glass of water for me?": {
+      "src": "audio/95e3412bf3600e4d.mp3",
+      "seconds": 2.688
+    },
+    "Could you make a copy for me?": {
+      "src": "audio/a687e9576c5235bd.mp3",
+      "seconds": 2.352
+    },
+    "Could you help us to check the translation?": {
+      "src": "audio/cbc1b91a0091b60e.mp3",
+      "seconds": 3.0
+    },
+    "Could you send the link to everyone in the group?": {
+      "src": "audio/aa73615692687dc9.mp3",
+      "seconds": 3.024
+    },
+    "Could you wait for me outside the office?": {
+      "src": "audio/4b397194564ded17.mp3",
+      "seconds": 3.024
+    },
+    "Do not blame yourself for this misunderstanding.": {
+      "src": "audio/09100159fa090f2c.mp3",
+      "seconds": 3.504
+    },
+    "Do not blame yourself for forgetting one unfamiliar word.": {
+      "src": "audio/448108a50c538193.mp3",
+      "seconds": 4.104
+    },
+    "Do not forget to check the date.": {
+      "src": "audio/8f6bc91e47a5fa55.mp3",
+      "seconds": 2.616
+    },
+    "Do not pretend to know the answer if you are unsure.": {
+      "src": "audio/847069b958978e55.mp3",
+      "seconds": 3.696
+    },
+    "Do not hesitate to ask for help.": {
+      "src": "audio/2733a36184586026.mp3",
+      "seconds": 2.88
+    },
+    "Do they charge extra for delivery?": {
+      "src": "audio/ed26aac744e44032.mp3",
+      "seconds": 2.688
+    },
+    "Do you happen to know where the file is?": {
+      "src": "audio/e4f60bdc874dc3fe.mp3",
+      "seconds": 2.856
+    },
+    "Have you mentioned this concern to your supervisor?": {
+      "src": "audio/672233d01c0dc04a.mp3",
+      "seconds": 3.384
+    },
+    "He admitted to making a mistake in the calculation.": {
+      "src": "audio/47ac9d15b9b110c2.mp3",
+      "seconds": 3.744
+    },
+    "He blamed me for deleting the original message.": {
+      "src": "audio/65ca8db8af7e633d.mp3",
+      "seconds": 3.528
+    },
+    "He cooked dinner for his family.": {
+      "src": "audio/c0edc0a652e42285.mp3",
+      "seconds": 2.568
+    },
+    "He decided to take notes while listening.": {
+      "src": "audio/998b5b7b2f314446.mp3",
+      "seconds": 3.24
+    },
+    "He introduced the topic and went on to give three examples.": {
+      "src": "audio/21e44e08242da1db.mp3",
+      "seconds": 4.344
+    },
+    "He described the problem to the engineer.": {
+      "src": "audio/9adb1ec66092cda2.mp3",
+      "seconds": 3.144
+    },
+    "He managed to finish the report before the deadline.": {
+      "src": "audio/514b2613393a1419.mp3",
+      "seconds": 3.576
+    },
+    "He pretended to understand the unfamiliar term.": {
+      "src": "audio/eee6432c94a51427.mp3",
+      "seconds": 3.648
+    },
+    "He offered to carry the equipment upstairs.": {
+      "src": "audio/b2734fe5f29d2318.mp3",
+      "seconds": 3.312
+    },
+    "He pretended to understand.": {
+      "src": "audio/671cd3173bb42d51.mp3",
+      "seconds": 2.808
+    },
+    "He refused to share the private document.": {
+      "src": "audio/f0113ebec4cff37d.mp3",
+      "seconds": 3.312
+    },
+    "He showed his notes to the tutor after class.": {
+      "src": "audio/6ba8ac085b28b0d9.mp3",
+      "seconds": 3.528
+    },
+    "He spoke to the audience without reading his notes.": {
+      "src": "audio/49f8840d1f16b829.mp3",
+      "seconds": 3.696
+    },
+    "He told us to wait near the entrance.": {
+      "src": "audio/6ce97ab3dc7759f0.mp3",
+      "seconds": 3.072
+    },
+    "He wants to apply for the position advertised yesterday.": {
+      "src": "audio/8e516b991f1fcbe1.mp3",
+      "seconds": 3.984
+    },
+    "He works for a small company.": {
+      "src": "audio/e41bd1840adac4ad.mp3",
+      "seconds": 2.76
+    },
+    "He works hard to provide for his family.": {
+      "src": "audio/66d7dea606c343da.mp3",
+      "seconds": 3.168
+    },
+    "He works for a small research company.": {
+      "src": "audio/54d9fe743d2aea5e.mp3",
+      "seconds": 3.36
+    },
+    "How does this example relate to the main argument?": {
+      "src": "audio/e915f5059ef3754d.mp3",
+      "seconds": 3.672
+    },
+    "I am going to the library after work.": {
+      "src": "audio/1d84387926fe1c9d.mp3",
+      "seconds": 3.096
+    },
+    "I am getting used to listening without subtitles.": {
+      "src": "audio/2edf1728211d8bf7.mp3",
+      "seconds": 3.624
+    },
+    "I am learning to follow lectures without a transcript.": {
+      "src": "audio/eb6144266d3941a4.mp3",
+      "seconds": 3.768
+    },
+    "I am looking for my keys.": {
+      "src": "audio/0db8bc3f3a4d7e7b.mp3",
+      "seconds": 2.592
+    },
+    "I am looking for a reliable dictionary.": {
+      "src": "audio/cf73120c010ba58e.mp3",
+      "seconds": 3.024
+    },
+    "I am preparing for the meeting.": {
+      "src": "audio/fd908b62bd70d9f7.mp3",
+      "seconds": 2.592
+    },
+    "I am saving for a new laptop.": {
+      "src": "audio/5a81eebf56d18f71.mp3",
+      "seconds": 2.952
+    },
+    "I am preparing to speak.": {
+      "src": "audio/1ad8bda6d8e158fb.mp3",
+      "seconds": 2.424
+    },
+    "I am still adjusting to the new routine.": {
+      "src": "audio/c53c18f448657d03.mp3",
+      "seconds": 3.144
+    },
+    "I am used to working late.": {
+      "src": "audio/0198c12d2093f02e.mp3",
+      "seconds": 2.592
+    },
+    "I am used to reading articles in English.": {
+      "src": "audio/1eb078bac99e0871.mp3",
+      "seconds": 3.288
+    },
+    "I am waiting for the editor to reply.": {
+      "src": "audio/e386bea4b9011c70.mp3",
+      "seconds": 2.976
+    },
+    "I answered the question.": {
+      "src": "audio/da024e117dfac5e5.mp3",
+      "seconds": 2.28
+    },
+    "I apologise for interrupting you during the discussion.": {
+      "src": "audio/4ac07d18647f74d4.mp3",
+      "seconds": 3.936
+    },
+    "I apologise for the delay in replying.": {
+      "src": "audio/8e5403499129e42d.mp3",
+      "seconds": 3.24
+    },
+    "I apologised for the delay.": {
+      "src": "audio/8247806c5a5f2f44.mp3",
+      "seconds": 2.64
+    },
+    "I apologised to Anna.": {
+      "src": "audio/5e804d0f960acd2e.mp3",
+      "seconds": 2.448
+    },
+    "I apologised to her for the delay.": {
+      "src": "audio/cb0d93b1401d7234.mp3",
+      "seconds": 2.904
+    },
+    "I apologised to my colleague after the meeting.": {
+      "src": "audio/14d1d65f0979f2f1.mp3",
+      "seconds": 3.384
+    },
+    "I apologised to the organiser for arriving late.": {
+      "src": "audio/3645fc58ebacc380.mp3",
+      "seconds": 3.984
+    },
+    "I applied for a place on the course.": {
+      "src": "audio/aa7b444e53a53afd.mp3",
+      "seconds": 3.0
+    },
+    "I applied to the university.": {
+      "src": "audio/f3f2d2e2ae82101b.mp3",
+      "seconds": 2.664
+    },
+    "I asked for help.": {
+      "src": "audio/c61e6fee6078328c.mp3",
+      "seconds": 2.16
+    },
+    "I asked her to help.": {
+      "src": "audio/4544ff311050505b.mp3",
+      "seconds": 2.184
+    },
+    "I attached the file to the email.": {
+      "src": "audio/856aaff1b73f9d82.mp3",
+      "seconds": 3.072
+    },
+    "I booked a room for the visiting lecturer.": {
+      "src": "audio/a42f3f1ddcd60c55.mp3",
+      "seconds": 3.024
+    },
+    "I bought a notebook for my daughter.": {
+      "src": "audio/b499f686e66559b5.mp3",
+      "seconds": 2.784
+    },
+    "I bought this book for my sister.": {
+      "src": "audio/a2f6e1dd1e3fdf0c.mp3",
+      "seconds": 2.616
+    },
+    "I called the office to confirm the time.": {
+      "src": "audio/4b870ce19ac52f5e.mp3",
+      "seconds": 3.168
+    },
+    "I called to confirm the time.": {
+      "src": "audio/942d124d92f78110.mp3",
+      "seconds": 2.712
+    },
+    "I can afford to buy the course this month.": {
+      "src": "audio/df006e0424d0bf66.mp3",
+      "seconds": 3.12
+    },
+    "I can lend this book to you until Monday.": {
+      "src": "audio/ad79bf1e032d3af3.mp3",
+      "seconds": 3.24
+    },
+    "I chose to stay at home and study.": {
+      "src": "audio/7bbba5601b0402d9.mp3",
+      "seconds": 2.904
+    },
+    "I connected the headphones to my tablet.": {
+      "src": "audio/54057fafbf099e48.mp3",
+      "seconds": 3.264
+    },
+    "I contacted the author to ask for a copy.": {
+      "src": "audio/b30e1c919ca039cd.mp3",
+      "seconds": 3.36
+    },
+    "I decided to stay.": {
+      "src": "audio/e6a1e180c7adbf71.mp3",
+      "seconds": 2.304
+    },
+    "I do not object to reading the report again.": {
+      "src": "audio/fa04729b66397cc2.mp3",
+      "seconds": 3.408
+    },
+    "I did not expect him to reply so quickly.": {
+      "src": "audio/dea5ec9fc0264cf2.mp3",
+      "seconds": 3.36
+    },
+    "I expect to finish reading it tonight.": {
+      "src": "audio/d7ee5655ebd0cf52.mp3",
+      "seconds": 3.072
+    },
+    "I failed to notice the missing reference.": {
+      "src": "audio/680515bb30284701.mp3",
+      "seconds": 3.168
+    },
+    "I forgot to attach the document to my email.": {
+      "src": "audio/80d6e3fa90622418.mp3",
+      "seconds": 3.552
+    },
+    "I got a spare charger for my colleague.": {
+      "src": "audio/80fab2cb0a83928d.mp3",
+      "seconds": 3.0
+    },
+    "I gave the keys to my neighbour before the trip.": {
+      "src": "audio/0ee086cf85b5fd98.mp3",
+      "seconds": 3.36
+    },
+    "I happened to meet the author at the conference.": {
+      "src": "audio/e01014c84b9f1179.mp3",
+      "seconds": 3.432
+    },
+    "I have not replied to the reviewer yet.": {
+      "src": "audio/fcbf6ab0f193c8ec.mp3",
+      "seconds": 3.072
+    },
+    "I hope for a reply.": {
+      "src": "audio/78c340a9a18ec965.mp3",
+      "seconds": 2.304
+    },
+    "I hope to meet you.": {
+      "src": "audio/e94f4dbcea3476a6.mp3",
+      "seconds": 2.136
+    },
+    "I hope to reply today.": {
+      "src": "audio/96425040bc24cdfd.mp3",
+      "seconds": 2.472
+    },
+    "I intend to finish this course before winter.": {
+      "src": "audio/7ba8cf3541dd46d0.mp3",
+      "seconds": 3.384
+    },
+    "I hope to understand the next podcast without subtitles.": {
+      "src": "audio/ef764d8ec60e0a1b.mp3",
+      "seconds": 4.296
+    },
+    "I look forward to hearing your next lecture.": {
+      "src": "audio/04546f6864e9fb39.mp3",
+      "seconds": 3.216
+    },
+    "I look forward to meeting you.": {
+      "src": "audio/e23d79d8516335f3.mp3",
+      "seconds": 2.472
+    },
+    "I made a copy for Anna.": {
+      "src": "audio/4994e423567cbf79.mp3",
+      "seconds": 2.352
+    },
+    "I mentioned the new course to Anna.": {
+      "src": "audio/14187460aedd08e6.mp3",
+      "seconds": 2.76
+    },
+    "I need to improve my listening skills.": {
+      "src": "audio/8a2aafbcecda7f15.mp3",
+      "seconds": 3.264
+    },
+    "I made a short checklist for the team.": {
+      "src": "audio/e33c06bfbe862c1e.mp3",
+      "seconds": 3.0
+    },
+    "I offered to summarise the discussion.": {
+      "src": "audio/78df97193342129e.mp3",
+      "seconds": 2.928
+    },
+    "I often listen to science podcasts.": {
+      "src": "audio/a3708f9cb37baa26.mp3",
+      "seconds": 3.288
+    },
+    "I need to talk to the coordinator about tomorrow.": {
+      "src": "audio/870fd4715ac8c69c.mp3",
+      "seconds": 3.552
+    },
+    "I often turn to my colleague for advice.": {
+      "src": "audio/86c124e6d9dc6527.mp3",
+      "seconds": 3.24
+    },
+    "I opened the dictionary to check a word.": {
+      "src": "audio/54aa7531bfe80a9d.mp3",
+      "seconds": 3.072
+    },
+    "I paid for the online course yesterday.": {
+      "src": "audio/2f82766efa7ad85b.mp3",
+      "seconds": 3.216
+    },
+    "I persuaded my friend to try the course.": {
+      "src": "audio/61c2e6c5f7e9900c.mp3",
+      "seconds": 3.288
+    },
+    "I plan to read the full paper this weekend.": {
+      "src": "audio/8bbd294df3fea35e.mp3",
+      "seconds": 3.384
+    },
+    "I promise to check the figures again.": {
+      "src": "audio/e4fdd1b2b522ded7.mp3",
+      "seconds": 2.904
+    },
+    "I recommend reading the introduction first.": {
+      "src": "audio/492cb282c3944b63.mp3",
+      "seconds": 3.384
+    },
+    "I recommend reading this chapter.": {
+      "src": "audio/bf296dd308a7aed3.mp3",
+      "seconds": 2.808
+    },
+    "I recommended the glossary to the new students.": {
+      "src": "audio/fde5ff73e039c4c6.mp3",
+      "seconds": 3.504
+    },
+    "I remembered to bring my notes, so we can use them.": {
+      "src": "audio/15cee3ef6883711f.mp3",
+      "seconds": 3.984
+    },
+    "I remembered calling her.": {
+      "src": "audio/ea8dfc8fc90fb45a.mp3",
+      "seconds": 2.424
+    },
+    "I remembered to call her.": {
+      "src": "audio/4f662222eef5db9f.mp3",
+      "seconds": 2.376
+    },
+    "I replied to her email.": {
+      "src": "audio/54f9df3b99661546.mp3",
+      "seconds": 2.64
+    },
+    "I searched for the original paper online.": {
+      "src": "audio/439226d44ab46d14.mp3",
+      "seconds": 3.384
+    },
+    "I replied to the question.": {
+      "src": "audio/b2d1a8c0af527ee4.mp3",
+      "seconds": 2.376
+    },
+    "I suggest checking the original source.": {
+      "src": "audio/d00786feecadc9b2.mp3",
+      "seconds": 3.288
+    },
+    "I sent the draft to the editor.": {
+      "src": "audio/9eb913a29f260818.mp3",
+      "seconds": 2.664
+    },
+    "I sent the file to Anna.": {
+      "src": "audio/405de1fb220e2fdd.mp3",
+      "seconds": 2.376
+    },
+    "I thanked her for the useful comments.": {
+      "src": "audio/2adc77cc59815fe8.mp3",
+      "seconds": 2.904
+    },
+    "I thanked her for checking the references.": {
+      "src": "audio/bf1f2c2879dfe134.mp3",
+      "seconds": 3.12
+    },
+    "I tend to read too quickly when I am tired.": {
+      "src": "audio/4638b3552c8bf8a4.mp3",
+      "seconds": 3.528
+    },
+    "I tried to understand the speaker despite the noise.": {
+      "src": "audio/deee46fd3b5fcaf8.mp3",
+      "seconds": 3.816
+    },
+    "I use the dictionary for checking words.": {
+      "src": "audio/61ea596f6ecba533.mp3",
+      "seconds": 3.336
+    },
+    "I use this notebook for recording new phrases.": {
+      "src": "audio/95b7dc8a383ebdbc.mp3",
+      "seconds": 3.768
+    },
+    "I wait for your reply.": {
+      "src": "audio/66ff963f2385a5fe.mp3",
+      "seconds": 2.328
+    },
+    "I used to work late.": {
+      "src": "audio/3fbf486aabf96b66.mp3",
+      "seconds": 2.4
+    },
+    "I want to read more articles in English.": {
+      "src": "audio/21e80d38ff4dd0dd.mp3",
+      "seconds": 3.24
+    },
+    "I want you to read the original text first.": {
+      "src": "audio/3f509a4b52028b67.mp3",
+      "seconds": 3.408
+    },
+    "I will attempt to explain the idea without jargon.": {
+      "src": "audio/0a798e394f0022bd.mp3",
+      "seconds": 3.696
+    },
+    "I will write to the editor tomorrow.": {
+      "src": "audio/030e2596546c4f09.mp3",
+      "seconds": 2.808
+    },
+    "It takes time to adapt to a new schedule.": {
+      "src": "audio/bd06bc9f587184c3.mp3",
+      "seconds": 3.48
+    },
+    "It took me a month to get used to working in a new team.": {
+      "src": "audio/e022a5105105aea7.mp3",
+      "seconds": 3.888
+    },
+    "Let me explain the difference.": {
+      "src": "audio/8a69888a74ca1495.mp3",
+      "seconds": 2.64
+    },
+    "Let me introduce you to our new colleague.": {
+      "src": "audio/06f09b0479d609c6.mp3",
+      "seconds": 3.144
+    },
+    "Please answer the question in your own words.": {
+      "src": "audio/e9cea9efef822ad7.mp3",
+      "seconds": 3.36
+    },
+    "Please attach the revised table to your reply.": {
+      "src": "audio/b1e3a4f8e6cce3e7.mp3",
+      "seconds": 3.456
+    },
+    "Please contact the organiser directly.": {
+      "src": "audio/5607bf351cdadcd6.mp3",
+      "seconds": 3.144
+    },
+    "Please describe the scene to me in English.": {
+      "src": "audio/b418c2d0ed082100.mp3",
+      "seconds": 3.072
+    },
+    "Please explain the rule to me.": {
+      "src": "audio/248f0341d8ec2309.mp3",
+      "seconds": 2.568
+    },
+    "Please forgive me for replying so late.": {
+      "src": "audio/2c159977c11bb371.mp3",
+      "seconds": 3.096
+    },
+    "Please forgive me for the interruption.": {
+      "src": "audio/e241b8c5b8ac62d2.mp3",
+      "seconds": 2.76
+    },
+    "Please give this note to the coordinator.": {
+      "src": "audio/8ffebe9f42e91abc.mp3",
+      "seconds": 3.048
+    },
+    "Please knock before you enter the office.": {
+      "src": "audio/ee162cec2fe9a593.mp3",
+      "seconds": 3.024
+    },
+    "Please listen to the instructions before you begin.": {
+      "src": "audio/b16fe3a2fac9ce6b.mp3",
+      "seconds": 3.576
+    },
+    "Please refer to the glossary at the end.": {
+      "src": "audio/42e613a24c168eef.mp3",
+      "seconds": 3.096
+    },
+    "Please remind me to send the slides.": {
+      "src": "audio/d3e8f31a689c6a41.mp3",
+      "seconds": 3.192
+    },
+    "Please reply to this message when you have time.": {
+      "src": "audio/c74260e1135e4f58.mp3",
+      "seconds": 3.432
+    },
+    "Please show the diagram to the group.": {
+      "src": "audio/d8c3974e8bf12277.mp3",
+      "seconds": 2.88
+    },
+    "Remember to call me tomorrow.": {
+      "src": "audio/e7a6d41d7954d432.mp3",
+      "seconds": 2.664
+    },
+    "Remember to save the file before closing it.": {
+      "src": "audio/488c44e797c667e7.mp3",
+      "seconds": 3.528
+    },
+    "Remind me to send the file.": {
+      "src": "audio/e99d2c778da877e5.mp3",
+      "seconds": 2.712
+    },
+    "Several colleagues contributed to the discussion.": {
+      "src": "audio/e92c1e9a9b86e2a9.mp3",
+      "seconds": 3.504
+    },
+    "She adjusted to life in another city quite quickly.": {
+      "src": "audio/f7df73d3d339bbbb.mp3",
+      "seconds": 3.696
+    },
+    "She admitted to reading the email too quickly.": {
+      "src": "audio/8350658bd440ff93.mp3",
+      "seconds": 3.552
+    },
+    "She advised us to check the source before quoting it.": {
+      "src": "audio/225c1ee4d5f72946.mp3",
+      "seconds": 3.768
+    },
+    "She agreed to help us with the translation.": {
+      "src": "audio/d9714f843c3579cd.mp3",
+      "seconds": 3.264
+    },
+    "She answered my email the same day.": {
+      "src": "audio/ea56e94c25ce8942.mp3",
+      "seconds": 3.216
+    },
+    "She apologised for sending the wrong attachment.": {
+      "src": "audio/a26f165505b826cc.mp3",
+      "seconds": 3.624
+    },
+    "She applied for a research grant.": {
+      "src": "audio/070a2b557bbe7850.mp3",
+      "seconds": 3.024
+    },
+    "She applied to the foundation for a grant.": {
+      "src": "audio/1800c5879eb28869.mp3",
+      "seconds": 3.264
+    },
+    "She applied to three universities last year.": {
+      "src": "audio/b84994715431854a.mp3",
+      "seconds": 3.696
+    },
+    "She arranged for a colleague to cover the meeting.": {
+      "src": "audio/fcecc40450f004c4.mp3",
+      "seconds": 3.288
+    },
+    "She arranged for an interpreter at the meeting.": {
+      "src": "audio/11bfb289360b6e6e.mp3",
+      "seconds": 3.36
+    },
+    "She asked me to check the file.": {
+      "src": "audio/d027530f9dcbee8f.mp3",
+      "seconds": 2.784
+    },
+    "She asked me to check the references.": {
+      "src": "audio/e4273e695325e938.mp3",
+      "seconds": 3.168
+    },
+    "She attached a label to each folder.": {
+      "src": "audio/175542e468c9de00.mp3",
+      "seconds": 3.072
+    },
+    "She booked two tickets for her parents.": {
+      "src": "audio/5e8b3dc28337838b.mp3",
+      "seconds": 3.168
+    },
+    "She bought this guide for the new team members.": {
+      "src": "audio/f8528d266ae894a1.mp3",
+      "seconds": 3.408
+    },
+    "She chose to explain the idea with a diagram.": {
+      "src": "audio/b48bd3cf9932ae15.mp3",
+      "seconds": 3.696
+    },
+    "She explained the procedure to the new colleague.": {
+      "src": "audio/e0c5f8a409da798e.mp3",
+      "seconds": 3.312
+    },
+    "She forgave him for his careless remark.": {
+      "src": "audio/20b2d82caa14e996.mp3",
+      "seconds": 3.288
+    },
+    "She forgave him for missing an important detail.": {
+      "src": "audio/7aaa936c1d69546e.mp3",
+      "seconds": 3.576
+    },
+    "She has already left for the airport.": {
+      "src": "audio/c9265d0cf33b31e2.mp3",
+      "seconds": 3.096
+    },
+    "She helps care for her elderly father.": {
+      "src": "audio/39f205fada3bffb8.mp3",
+      "seconds": 3.264
+    },
+    "She introduced the speaker to the audience.": {
+      "src": "audio/65e149019078d857.mp3",
+      "seconds": 3.312
+    },
+    "She is preparing to give a short presentation.": {
+      "src": "audio/62e810d0f82e1e31.mp3",
+      "seconds": 3.408
+    },
+    "She is used to getting up early on weekdays.": {
+      "src": "audio/ef55c933ffd28f23.mp3",
+      "seconds": 3.504
+    },
+    "She learned to use the new software quickly.": {
+      "src": "audio/6726307962093ba0.mp3",
+      "seconds": 3.312
+    },
+    "She left for London.": {
+      "src": "audio/fd198444cf92b200.mp3",
+      "seconds": 2.28
+    },
+    "She lent her dictionary to a friend.": {
+      "src": "audio/62f9676f91d44606.mp3",
+      "seconds": 2.928
+    },
+    "She offered her seat to an older passenger.": {
+      "src": "audio/500aa9b34637f1c5.mp3",
+      "seconds": 3.24
+    },
+    "She opened the dictionary to check the pronunciation.": {
+      "src": "audio/a198224cf9c570be.mp3",
+      "seconds": 3.696
+    },
+    "She persuaded him to join the discussion.": {
+      "src": "audio/16c0a00635104188.mp3",
+      "seconds": 3.288
+    },
+    "She prepared carefully for the interview.": {
+      "src": "audio/1c958d7290174ed4.mp3",
+      "seconds": 3.144
+    },
+    "She promised to send the slides after the talk.": {
+      "src": "audio/c87bb4c8ae25435f.mp3",
+      "seconds": 3.528
+    },
+    "She recommended this podcast to me.": {
+      "src": "audio/92f9bc7837cce48c.mp3",
+      "seconds": 3.072
+    },
+    "She recommends taking notes while listening.": {
+      "src": "audio/68a36479c11e477d.mp3",
+      "seconds": 3.36
+    },
+    "She refused to answer without more information.": {
+      "src": "audio/41f8c127c5dc27c9.mp3",
+      "seconds": 3.6
+    },
+    "She said a few words to the team before leaving.": {
+      "src": "audio/a874f5c75bc2e01d.mp3",
+      "seconds": 3.672
+    },
+    "She seems to understand the main point.": {
+      "src": "audio/1099825208ba01cf.mp3",
+      "seconds": 3.168
+    },
+    "She still hopes for a chance to join the project.": {
+      "src": "audio/a1845739a3bf33d5.mp3",
+      "seconds": 3.696
+    },
+    "She stopped to read the notice on the door.": {
+      "src": "audio/849dbb49ca9ef3ea.mp3",
+      "seconds": 3.12
+    },
+    "She suggested a simpler approach to the team.": {
+      "src": "audio/69843d127653a138.mp3",
+      "seconds": 3.528
+    },
+    "She suggested postponing the discussion until tomorrow.": {
+      "src": "audio/b3153a4d6dd12f10.mp3",
+      "seconds": 4.032
+    },
+    "She talked to the family after the meeting.": {
+      "src": "audio/79c3fab3ed2f5b84.mp3",
+      "seconds": 3.144
+    },
+    "She taught the students to use the dictionary effectively.": {
+      "src": "audio/3d2cd3f31f046a4e.mp3",
+      "seconds": 3.84
+    },
+    "She used to work for an international publisher.": {
+      "src": "audio/df8f9e2b3c36adf0.mp3",
+      "seconds": 3.552
+    },
+    "She wants to apologise to the patient in person.": {
+      "src": "audio/9ccd84f5d060b96d.mp3",
+      "seconds": 3.72
+    },
+    "She wants to understand the whole conversation.": {
+      "src": "audio/ab08a52cfbc6f305.mp3",
+      "seconds": 3.528
+    },
+    "She wrote to the organiser to confirm the date.": {
+      "src": "audio/67709fb08cb6128c.mp3",
+      "seconds": 3.552
+    },
+    "She warned me not to rely on the first draft.": {
+      "src": "audio/4a83990617c30c75.mp3",
+      "seconds": 3.528
+    },
+    "Thank you for explaining the difference so clearly.": {
+      "src": "audio/8154a084571a5983.mp3",
+      "seconds": 3.408
+    },
+    "Thank you for helping me.": {
+      "src": "audio/4abfc4cd385b1685.mp3",
+      "seconds": 2.304
+    },
+    "Thank you for your help.": {
+      "src": "audio/a5b98d0c736b7fa8.mp3",
+      "seconds": 2.184
+    },
+    "Thank you for your patience.": {
+      "src": "audio/6b5e88495ca2ad54.mp3",
+      "seconds": 2.424
+    },
+    "The authors aim to compare two methods.": {
+      "src": "audio/0dff48391978e286.mp3",
+      "seconds": 3.24
+    },
+    "The authors aim to compare two ways of presenting information.": {
+      "src": "audio/be32b66584458000.mp3",
+      "seconds": 4.344
+    },
+    "The authors refer to an earlier review.": {
+      "src": "audio/c11c76a11a76a3cc.mp3",
+      "seconds": 3.24
+    },
+    "The broken projector forced the speaker to use paper notes.": {
+      "src": "audio/63243f7d6e03651a.mp3",
+      "seconds": 4.2
+    },
+    "The authors responded to every comment.": {
+      "src": "audio/3bcb8fbe791f1d8d.mp3",
+      "seconds": 3.048
+    },
+    "The committee called for a clearer explanation.": {
+      "src": "audio/fef26c629d6ff2e4.mp3",
+      "seconds": 3.504
+    },
+    "The coordinator told everyone to bring a notebook.": {
+      "src": "audio/a2bd16709fe8770a.mp3",
+      "seconds": 3.696
+    },
+    "The course requires participants to complete a short task.": {
+      "src": "audio/9a08e5ffd0f2334b.mp3",
+      "seconds": 4.344
+    },
+    "The course taught me to read graphs more carefully.": {
+      "src": "audio/68dbee80bd96eb21.mp3",
+      "seconds": 3.504
+    },
+    "The delay forced us to change our plans.": {
+      "src": "audio/a222ead39c1c0fff.mp3",
+      "seconds": 3.336
+    },
+    "The delay made us change the schedule.": {
+      "src": "audio/db8c2dea73f27aee.mp3",
+      "seconds": 3.048
+    },
+    "The editor invited us to submit a revised version.": {
+      "src": "audio/88d69997578157e7.mp3",
+      "seconds": 3.816
+    },
+    "The editor suggested a different title to the authors.": {
+      "src": "audio/c80737332f9343b2.mp3",
+      "seconds": 3.792
+    },
+    "The email failed to reach the intended recipient.": {
+      "src": "audio/4aac8c1a05fa3d78.mp3",
+      "seconds": 3.888
+    },
+    "The email reminded us to register before Friday.": {
+      "src": "audio/e035eb67a3e5cd9f.mp3",
+      "seconds": 3.96
+    },
+    "The family cared for him while he recovered.": {
+      "src": "audio/85a03c6c144a6c91.mp3",
+      "seconds": 3.168
+    },
+    "The figures appear to match the table.": {
+      "src": "audio/8b10ced7e8bd082e.mp3",
+      "seconds": 2.976
+    },
+    "The hotel charged us for breakfast.": {
+      "src": "audio/05e63706a6f0acc9.mp3",
+      "seconds": 3.072
+    },
+    "The index enables readers to find a term quickly.": {
+      "src": "audio/62245ecad79001d2.mp3",
+      "seconds": 3.912
+    },
+    "The journal requires authors to declare conflicts of interest.": {
+      "src": "audio/14c91c33f3627705.mp3",
+      "seconds": 4.464
+    },
+    "The organiser allowed us to enter a little early.": {
+      "src": "audio/da148d611205a223.mp3",
+      "seconds": 3.456
+    },
+    "The organiser warned us not to arrive late.": {
+      "src": "audio/f84f513ebedab602.mp3",
+      "seconds": 3.504
+    },
+    "The organisers threatened to close registration early.": {
+      "src": "audio/bb4b66ad0f02620a.mp3",
+      "seconds": 3.816
+    },
+    "The question led to a useful discussion.": {
+      "src": "audio/03fcf9f22d6411b7.mp3",
+      "seconds": 3.264
+    },
+    "The programme helps people provide for their children.": {
+      "src": "audio/ff54113800e9bdf5.mp3",
+      "seconds": 3.672
+    },
+    "The question made me think more carefully.": {
+      "src": "audio/6d566cea96157db9.mp3",
+      "seconds": 3.072
+    },
+    "The recording enabled me to listen again later.": {
+      "src": "audio/fc9c46eb3507bc02.mp3",
+      "seconds": 3.432
+    },
+    "The report calls for further discussion.": {
+      "src": "audio/195dec6de7ef539b.mp3",
+      "seconds": 3.24
+    },
+    "The reviewer asked for more detail.": {
+      "src": "audio/732d75d4183abf35.mp3",
+      "seconds": 3.048
+    },
+    "The reviewer criticised the authors for ignoring the limitations.": {
+      "src": "audio/65b519310fac8dc8.mp3",
+      "seconds": 4.488
+    },
+    "The reviewers appear to agree on the main issue.": {
+      "src": "audio/3f5df7edd5caa38b.mp3",
+      "seconds": 3.432
+    },
+    "The supplier threatened to cancel the order.": {
+      "src": "audio/108b246493328a84.mp3",
+      "seconds": 3.168
+    },
+    "The team is planning for a busy winter.": {
+      "src": "audio/860d35ccd7c7cffc.mp3",
+      "seconds": 3.0
+    },
+    "The tutor advised me to practise a little every day.": {
+      "src": "audio/e770053890e2a92a.mp3",
+      "seconds": 3.84
+    },
+    "The team adapted to the change in plans.": {
+      "src": "audio/3659323e5aca8f0f.mp3",
+      "seconds": 3.24
+    },
+    "The tutor encouraged me to speak more freely.": {
+      "src": "audio/eb5a53064815d409.mp3",
+      "seconds": 3.504
+    },
+    "These comments relate to the methods section.": {
+      "src": "audio/54cfda9a3cc9825f.mp3",
+      "seconds": 3.264
+    },
+    "The two summaries seem to describe the same event.": {
+      "src": "audio/4bd0c8f04c63b55f.mp3",
+      "seconds": 3.576
+    },
+    "These examples help me to remember the pattern.": {
+      "src": "audio/918b0a6cfb6ba054.mp3",
+      "seconds": 3.48
+    },
+    "They apologised for the confusion in the timetable.": {
+      "src": "audio/0995289f880a1c68.mp3",
+      "seconds": 3.672
+    },
+    "They agreed to review the draft.": {
+      "src": "audio/b0f68ebf2072f22d.mp3",
+      "seconds": 2.784
+    },
+    "They are searching for a solution that everyone can accept.": {
+      "src": "audio/b20834d9bacc1957.mp3",
+      "seconds": 3.912
+    },
+    "They attempted to reproduce the calculation.": {
+      "src": "audio/55bdbb8e330baf1f.mp3",
+      "seconds": 3.48
+    },
+    "They blamed the supplier for the delay.": {
+      "src": "audio/814b09b4d644e9b4.mp3",
+      "seconds": 2.832
+    },
+    "They have been saving for this trip for months.": {
+      "src": "audio/5c35ef5f12a60b73.mp3",
+      "seconds": 3.216
+    },
+    "They discussed the proposal for nearly an hour.": {
+      "src": "audio/18070dc8a115e934.mp3",
+      "seconds": 3.312
+    },
+    "They criticised him for stating the conclusion too strongly.": {
+      "src": "audio/47e9e0bd6831959b.mp3",
+      "seconds": 4.152
+    },
+    "They invited her to give a short talk.": {
+      "src": "audio/6a773953580f172a.mp3",
+      "seconds": 3.144
+    },
+    "They intend to publish a revised guide.": {
+      "src": "audio/5b1639b6b2d58d73.mp3",
+      "seconds": 3.24
+    },
+    "They let us use the meeting room.": {
+      "src": "audio/1a411c9db44527ac.mp3",
+      "seconds": 2.736
+    },
+    "They offered the position to an experienced researcher.": {
+      "src": "audio/9cba8d4c15c7c949.mp3",
+      "seconds": 3.792
+    },
+    "They objected to changing the deadline without discussion.": {
+      "src": "audio/693ddf72551603f3.mp3",
+      "seconds": 3.96
+    },
+    "They reached the same conclusion independently.": {
+      "src": "audio/c707b97c70d980b5.mp3",
+      "seconds": 3.408
+    },
+    "They want the speaker to explain the main terms.": {
+      "src": "audio/4926a6d3f3a6fb28.mp3",
+      "seconds": 3.552
+    },
+    "This helps me to understand.": {
+      "src": "audio/c97e2aeb604525fb.mp3",
+      "seconds": 2.712
+    },
+    "This helps me understand.": {
+      "src": "audio/0675da08e0a8f963.mp3",
+      "seconds": 2.592
+    },
+    "This instruction applies to all participants.": {
+      "src": "audio/1720aabf6e2b177f.mp3",
+      "seconds": 3.648
+    },
+    "This question deserves to be discussed carefully.": {
+      "src": "audio/3ae871ad4fbe8444.mp3",
+      "seconds": 3.576
+    },
+    "This notebook belongs to my colleague.": {
+      "src": "audio/6c97878ea5cc0268.mp3",
+      "seconds": 3.072
+    },
+    "This rule applies to everyone.": {
+      "src": "audio/6b22ffcc13835548.mp3",
+      "seconds": 2.664
+    },
+    "This setting allows users to change the text size.": {
+      "src": "audio/4dc13a3b75999a38.mp3",
+      "seconds": 3.888
+    },
+    "This tool enables us to compare texts.": {
+      "src": "audio/8a39c9cd2402ad7c.mp3",
+      "seconds": 3.408
+    },
+    "We aim to make the instructions easier to follow.": {
+      "src": "audio/2da062cc1f65c0f6.mp3",
+      "seconds": 3.624
+    },
+    "We are cooking something simple for our guests.": {
+      "src": "audio/7d7071967d2d63e2.mp3",
+      "seconds": 3.408
+    },
+    "We are hoping for a quick reply.": {
+      "src": "audio/0d22335b8208b9e0.mp3",
+      "seconds": 2.784
+    },
+    "We are looking for someone who can check the translation.": {
+      "src": "audio/666c3a3a0e6e1424.mp3",
+      "seconds": 3.624
+    },
+    "We are looking forward to meeting you in person.": {
+      "src": "audio/955f0b152efba957.mp3",
+      "seconds": 3.288
+    },
+    "We are preparing for tomorrow’s meeting.": {
+      "src": "audio/9db71b17e87ca2e1.mp3",
+      "seconds": 3.12
+    },
+    "We are trying to find a time that suits everyone.": {
+      "src": "audio/1e60dcd63cef6af9.mp3",
+      "seconds": 3.432
+    },
+    "We are waiting for the results.": {
+      "src": "audio/40542f440da62910.mp3",
+      "seconds": 2.64
+    },
+    "We arranged for an interpreter to join the call.": {
+      "src": "audio/06c2d3f1bdee376a.mp3",
+      "seconds": 3.528
+    },
+    "We arranged for transport to the conference.": {
+      "src": "audio/81b014a789d7a9b2.mp3",
+      "seconds": 3.288
+    },
+    "We cannot afford to waste another hour.": {
+      "src": "audio/4c9d2902e8f6b778.mp3",
+      "seconds": 3.192
+    },
+    "We decided to discuss the question tomorrow.": {
+      "src": "audio/8cf8af5e6b019a6e.mp3",
+      "seconds": 3.432
+    },
+    "We discussed the results.": {
+      "src": "audio/a1aab4f3a09755da.mp3",
+      "seconds": 2.472
+    },
+    "We encourage colleagues to ask questions.": {
+      "src": "audio/a44bc62c6723b2bb.mp3",
+      "seconds": 3.456
+    },
+    "We expect the authors to clarify this point.": {
+      "src": "audio/d30f2a51a5030d32.mp3",
+      "seconds": 3.528
+    },
+    "We entered the lecture hall quietly.": {
+      "src": "audio/372713be050b21b7.mp3",
+      "seconds": 2.976
+    },
+    "We expect to finish early.": {
+      "src": "audio/0a04f6fda1d743fd.mp3",
+      "seconds": 2.448
+    },
+    "We expect to receive a reply next week.": {
+      "src": "audio/b2f0e85dc2ac5497.mp3",
+      "seconds": 3.408
+    },
+    "We hope to finish the report before Friday.": {
+      "src": "audio/3dcbeb4a81129bdc.mp3",
+      "seconds": 3.432
+    },
+    "We leave for London tomorrow morning.": {
+      "src": "audio/76f9092102a45254.mp3",
+      "seconds": 3.072
+    },
+    "We managed to finish on time.": {
+      "src": "audio/b8251f344dee9882.mp3",
+      "seconds": 2.784
+    },
+    "We managed to solve the technical problem.": {
+      "src": "audio/7f2d06ed142da770.mp3",
+      "seconds": 3.168
+    },
+    "We must plan for possible delays.": {
+      "src": "audio/24aeeb1fdeaf9b5a.mp3",
+      "seconds": 3.096
+    },
+    "We need time to respond to this request properly.": {
+      "src": "audio/0ef0962e0b6303b9.mp3",
+      "seconds": 3.6
+    },
+    "We need to compare the two versions.": {
+      "src": "audio/755f0779c167e830.mp3",
+      "seconds": 3.144
+    },
+    "We need to discuss the main findings.": {
+      "src": "audio/14feb0d751b2a375.mp3",
+      "seconds": 3.216
+    },
+    "We plan to meet before the conference.": {
+      "src": "audio/b5fbf7ee6bd16aa7.mp3",
+      "seconds": 3.216
+    },
+    "We prepared to leave before sunrise.": {
+      "src": "audio/4d754f8b4c690772.mp3",
+      "seconds": 3.168
+    },
+    "We reached the station just in time.": {
+      "src": "audio/a6254c6f382c24db.mp3",
+      "seconds": 3.024
+    },
+    "We stopped to rest after walking for two hours.": {
+      "src": "audio/88ef53a449d96e86.mp3",
+      "seconds": 3.672
+    },
+    "We tend to remember examples better than isolated rules.": {
+      "src": "audio/3c7f09cf518a577f.mp3",
+      "seconds": 4.344
+    },
+    "We use a checklist for checking the final version.": {
+      "src": "audio/b9fd1d4abcefe2b0.mp3",
+      "seconds": 3.672
+    },
+    "We waited for everyone to arrive before starting.": {
+      "src": "audio/5997ee390df5306a.mp3",
+      "seconds": 3.792
+    },
+    "We went to the conference centre together.": {
+      "src": "audio/6ef84c1e73b1083c.mp3",
+      "seconds": 2.952
+    },
+    "We worked efficiently to make up for lost time.": {
+      "src": "audio/d1a58d360b7a458b.mp3",
+      "seconds": 3.648
+    },
+    "What did you say to the receptionist?": {
+      "src": "audio/64a12f84bf3349f5.mp3",
+      "seconds": 2.856
+    },
+    "Which category does this example belong to?": {
+      "src": "audio/c8aa01e63f5764c2.mp3",
+      "seconds": 3.408
+    },
+    "Who will pay for the tickets?": {
+      "src": "audio/abbb04c0771218c5.mp3",
+      "seconds": 2.568
+    },
+    "You deserve to take a break after that work.": {
+      "src": "audio/ee77cf44adce8cc3.mp3",
+      "seconds": 3.288
+    },
+    "adapt to something": {
+      "src": "audio/e2fdd652bcc3238e.mp3",
+      "seconds": 2.232
+    },
+    "adjust to something": {
+      "src": "audio/5355f968aedd8d0f.mp3",
+      "seconds": 2.16
+    },
+    "admit to doing something": {
+      "src": "audio/9bb09ec917ca28b5.mp3",
+      "seconds": 2.544
+    },
+    "advise someone to do something": {
+      "src": "audio/6b10ca66491ac501.mp3",
+      "seconds": 2.76
+    },
+    "afford to do something": {
+      "src": "audio/f8f1ec3154768993.mp3",
+      "seconds": 2.4
+    },
+    "agree to do something": {
+      "src": "audio/81636b4c5e5df321.mp3",
+      "seconds": 2.4
+    },
+    "aim to do something": {
+      "src": "audio/0eda90d54c8ba575.mp3",
+      "seconds": 2.208
+    },
+    "allow someone to do something": {
+      "src": "audio/152cad3be0eb8898.mp3",
+      "seconds": 2.712
+    },
+    "answer someone or something": {
+      "src": "audio/b4abb796d2f61139.mp3",
+      "seconds": 2.616
+    },
+    "answer the question": {
+      "src": "audio/78444f7c19e60744.mp3",
+      "seconds": 2.112
+    },
+    "apologise for doing something": {
+      "src": "audio/551e8044f6df22ca.mp3",
+      "seconds": 2.832
+    },
+    "apologise for something": {
+      "src": "audio/330187e8fb0d8c98.mp3",
+      "seconds": 2.472
+    },
+    "apologise to someone": {
+      "src": "audio/0a429bcec0be013f.mp3",
+      "seconds": 2.4
+    },
+    "apologise to someone for something": {
+      "src": "audio/e427dcc5ae4650f4.mp3",
+      "seconds": 2.976
+    },
+    "appear to do something": {
+      "src": "audio/343c0edb89df802a.mp3",
+      "seconds": 2.4
+    },
+    "apply for a grant": {
+      "src": "audio/10fdeb3cdd07f8cf.mp3",
+      "seconds": 2.256
+    },
+    "apply for something": {
+      "src": "audio/5870c948f4ff5479.mp3",
+      "seconds": 2.184
+    },
+    "apply to an organisation for something": {
+      "src": "audio/ff179e8dabb1affb.mp3",
+      "seconds": 3.264
+    },
+    "apply to someone or something": {
+      "src": "audio/a4ae0296933f9218.mp3",
+      "seconds": 2.688
+    },
+    "arrange for someone to do something": {
+      "src": "audio/f390d284745ec1b0.mp3",
+      "seconds": 2.904
+    },
+    "arrange for something": {
+      "src": "audio/4995f4499e85340e.mp3",
+      "seconds": 2.28
+    },
+    "ask for something": {
+      "src": "audio/54be16b9d927ff47.mp3",
+      "seconds": 2.088
+    },
+    "ask someone to do something": {
+      "src": "audio/77fe8bee138f89b8.mp3",
+      "seconds": 2.616
+    },
+    "ask someone to help": {
+      "src": "audio/f9f23ba6ca6a1e00.mp3",
+      "seconds": 2.208
+    },
+    "attach something to something": {
+      "src": "audio/70dcc26340d6aa0d.mp3",
+      "seconds": 2.592
+    },
+    "attempt to do something": {
+      "src": "audio/15d48b3578dc3ec5.mp3",
+      "seconds": 2.424
+    },
+    "be used to doing something": {
+      "src": "audio/bb8207687ee6b543.mp3",
+      "seconds": 2.544
+    },
+    "be used to working late": {
+      "src": "audio/0c8a2b576f7753cc.mp3",
+      "seconds": 2.472
+    },
+    "belong to someone or something": {
+      "src": "audio/35af2e401a7cef2e.mp3",
+      "seconds": 2.664
+    },
+    "blame someone for doing something": {
+      "src": "audio/db5c9cb049dd9190.mp3",
+      "seconds": 2.928
+    },
+    "blame someone for something": {
+      "src": "audio/d017c5a47ebfdab4.mp3",
+      "seconds": 2.592
+    },
+    "book something for someone": {
+      "src": "audio/3d056156ee6819a1.mp3",
+      "seconds": 2.448
+    },
+    "call for something": {
+      "src": "audio/82bd56e5e40e0c72.mp3",
+      "seconds": 2.112
+    },
+    "buy something for someone": {
+      "src": "audio/0657c5f196f8f2b9.mp3",
+      "seconds": 2.376
+    },
+    "care for someone": {
+      "src": "audio/d4a38946605f384d.mp3",
+      "seconds": 2.016
+    },
+    "charge someone for something": {
+      "src": "audio/45f86acf25167eb0.mp3",
+      "seconds": 2.544
+    },
+    "choose to do something": {
+      "src": "audio/6e28ad72f5cd5b76.mp3",
+      "seconds": 2.328
+    },
+    "connect something to something": {
+      "src": "audio/cfc442a430041b51.mp3",
+      "seconds": 2.592
+    },
+    "contact someone": {
+      "src": "audio/fb4eb4ca4c637b20.mp3",
+      "seconds": 2.088
+    },
+    "contribute to something": {
+      "src": "audio/f1b75622c07177a3.mp3",
+      "seconds": 2.4
+    },
+    "cook something for someone": {
+      "src": "audio/268b2a73050af0a4.mp3",
+      "seconds": 2.4
+    },
+    "criticise someone for doing something": {
+      "src": "audio/0e6d46d924419733.mp3",
+      "seconds": 3.096
+    },
+    "decide to do something": {
+      "src": "audio/24ebcdf48d21dcb4.mp3",
+      "seconds": 2.448
+    },
+    "decide to go": {
+      "src": "audio/e8dda2baa8a6b654.mp3",
+      "seconds": 2.04
+    },
+    "describe something to someone": {
+      "src": "audio/d3ca922705444a37.mp3",
+      "seconds": 2.616
+    },
+    "deserve to do something": {
+      "src": "audio/36ec451e4842887a.mp3",
+      "seconds": 2.424
+    },
+    "discuss something": {
+      "src": "audio/61c44cb71df1714a.mp3",
+      "seconds": 2.088
+    },
+    "discuss the results": {
+      "src": "audio/473502d3c5147176.mp3",
+      "seconds": 2.328
+    },
+    "do something to do something else": {
+      "src": "audio/339b30194279f620.mp3",
+      "seconds": 2.832
+    },
+    "enable someone to do something": {
+      "src": "audio/7a889baacfa3a251.mp3",
+      "seconds": 2.808
+    },
+    "encourage someone to do something": {
+      "src": "audio/cd91f3ffba21b766.mp3",
+      "seconds": 2.832
+    },
+    "enter a place": {
+      "src": "audio/361a865fa8aa342d.mp3",
+      "seconds": 2.016
+    },
+    "expect someone to do something": {
+      "src": "audio/dbce9a65952a65ac.mp3",
+      "seconds": 2.784
+    },
+    "expect to do something": {
+      "src": "audio/c8630bb3afdc58b9.mp3",
+      "seconds": 2.424
+    },
+    "explain something to someone": {
+      "src": "audio/622b3aa6eb78fff2.mp3",
+      "seconds": 2.664
+    },
+    "explain the rule to me": {
+      "src": "audio/c92af5d0fced622c.mp3",
+      "seconds": 2.352
+    },
+    "fail to do something": {
+      "src": "audio/d2756160dbaa204b.mp3",
+      "seconds": 2.352
+    },
+    "force someone to do something": {
+      "src": "audio/39763679e8f381ff.mp3",
+      "seconds": 2.688
+    },
+    "forget to do something": {
+      "src": "audio/43a26edffcd1a589.mp3",
+      "seconds": 2.328
+    },
+    "forgive someone for doing something": {
+      "src": "audio/c16c6279bf69016b.mp3",
+      "seconds": 2.856
+    },
+    "forgive someone for something": {
+      "src": "audio/14cf11487cf34b07.mp3",
+      "seconds": 2.544
+    },
+    "get something for someone": {
+      "src": "audio/08022a9f1dfff9d5.mp3",
+      "seconds": 2.328
+    },
+    "get used to doing something": {
+      "src": "audio/bb824bf3216ab6fe.mp3",
+      "seconds": 2.544
+    },
+    "give something to someone": {
+      "src": "audio/045241636c15bc01.mp3",
+      "seconds": 2.28
+    },
+    "go on to do something": {
+      "src": "audio/869aa69f2956b610.mp3",
+      "seconds": 2.376
+    },
+    "go to a place": {
+      "src": "audio/694e38b73f267352.mp3",
+      "seconds": 2.064
+    },
+    "happen to do something": {
+      "src": "audio/1acb1882acca6fbc.mp3",
+      "seconds": 2.376
+    },
+    "help someone to do something": {
+      "src": "audio/71793308b4630dbf.mp3",
+      "seconds": 2.592
+    },
+    "hope for something": {
+      "src": "audio/18c14e7342edd825.mp3",
+      "seconds": 2.064
+    },
+    "hope to do something": {
+      "src": "audio/70e3c4f0d07371b3.mp3",
+      "seconds": 2.256
+    },
+    "hope to understand": {
+      "src": "audio/86270087921f829a.mp3",
+      "seconds": 2.256
+    },
+    "intend to do something": {
+      "src": "audio/7db9bf59567085f4.mp3",
+      "seconds": 2.448
+    },
+    "introduce someone to someone": {
+      "src": "audio/b574a52ed536bf38.mp3",
+      "seconds": 2.616
+    },
+    "invite someone to do something": {
+      "src": "audio/ac743ca419038b77.mp3",
+      "seconds": 2.76
+    },
+    "lead to something": {
+      "src": "audio/ea56d678717dde51.mp3",
+      "seconds": 2.112
+    },
+    "learn to do something": {
+      "src": "audio/c6cbc54344930646.mp3",
+      "seconds": 2.304
+    },
+    "leave for a place": {
+      "src": "audio/99bb27fa16969d2b.mp3",
+      "seconds": 2.16
+    },
+    "lend something to someone": {
+      "src": "audio/faf1280745848c10.mp3",
+      "seconds": 2.424
+    },
+    "let me explain": {
+      "src": "audio/b26fb1f585f70e70.mp3",
+      "seconds": 2.088
+    },
+    "let someone do something": {
+      "src": "audio/c06ddb1871652775.mp3",
+      "seconds": 2.424
+    },
+    "listen to a podcast": {
+      "src": "audio/9b3b41bdf3e2ecf1.mp3",
+      "seconds": 2.472
+    },
+    "look for someone or something": {
+      "src": "audio/46209eec94a38067.mp3",
+      "seconds": 2.52
+    },
+    "listen to someone or something": {
+      "src": "audio/76ef168d64e47e72.mp3",
+      "seconds": 2.688
+    },
+    "look forward to doing something": {
+      "src": "audio/e5dbdad5e27ac8ac.mp3",
+      "seconds": 2.712
+    },
+    "look forward to hearing from you": {
+      "src": "audio/6f46c80169730cb1.mp3",
+      "seconds": 2.688
+    },
+    "make someone do something": {
+      "src": "audio/55e2ef7facdba5ae.mp3",
+      "seconds": 2.568
+    },
+    "make something for someone": {
+      "src": "audio/fe2cd0dba80c6b23.mp3",
+      "seconds": 2.52
+    },
+    "make up for something": {
+      "src": "audio/ecef599d8e3c8b51.mp3",
+      "seconds": 2.256
+    },
+    "make up for lost time": {
+      "src": "audio/9ddca1e7e260d017.mp3",
+      "seconds": 2.544
+    },
+    "manage to do something": {
+      "src": "audio/58c41156c413424f.mp3",
+      "seconds": 2.4
+    },
+    "mention something to someone": {
+      "src": "audio/bac735f216ab297a.mp3",
+      "seconds": 2.544
+    },
+    "need to do something": {
+      "src": "audio/a674d930eaf981ab.mp3",
+      "seconds": 2.28
+    },
+    "object to doing something": {
+      "src": "audio/7bc68bc70832df2d.mp3",
+      "seconds": 2.592
+    },
+    "offer something to someone": {
+      "src": "audio/162c4bf5e04fda44.mp3",
+      "seconds": 2.4
+    },
+    "offer to do something": {
+      "src": "audio/4133c38b46bcd5df.mp3",
+      "seconds": 2.28
+    },
+    "pay for something": {
+      "src": "audio/134567351b751aa7.mp3",
+      "seconds": 2.04
+    },
+    "persuade someone to do something": {
+      "src": "audio/7e1ae014eec29d37.mp3",
+      "seconds": 2.928
+    },
+    "plan for something": {
+      "src": "audio/f7993dd0e73c900f.mp3",
+      "seconds": 2.136
+    },
+    "plan to do something": {
+      "src": "audio/aa28432cc1f0c6e5.mp3",
+      "seconds": 2.28
+    },
+    "prepare for something": {
+      "src": "audio/f3145a79c10847af.mp3",
+      "seconds": 2.28
+    },
+    "prepare for the meeting": {
+      "src": "audio/53e1aac42e724975.mp3",
+      "seconds": 2.304
+    },
+    "prepare to do something": {
+      "src": "audio/f0f84c51a67f85d9.mp3",
+      "seconds": 2.448
+    },
+    "prepare to speak": {
+      "src": "audio/23948dceb4fc05b4.mp3",
+      "seconds": 2.136
+    },
+    "pretend to do something": {
+      "src": "audio/6ac5ddb79cbf3fb5.mp3",
+      "seconds": 2.448
+    },
+    "promise to do something": {
+      "src": "audio/87848ad65d4a39dd.mp3",
+      "seconds": 2.328
+    },
+    "provide for someone": {
+      "src": "audio/8a2bf641dac121dc.mp3",
+      "seconds": 2.184
+    },
+    "reach a place or result": {
+      "src": "audio/cf16e347485a6a5f.mp3",
+      "seconds": 2.592
+    },
+    "recommend doing something": {
+      "src": "audio/df64a2693aa19b73.mp3",
+      "seconds": 2.568
+    },
+    "recommend something to someone": {
+      "src": "audio/6e23445df2598411.mp3",
+      "seconds": 2.664
+    },
+    "refer to someone or something": {
+      "src": "audio/e2f4c27ce2ada60b.mp3",
+      "seconds": 2.736
+    },
+    "refuse to do something": {
+      "src": "audio/16e70ecb1f576667.mp3",
+      "seconds": 2.472
+    },
+    "relate to something": {
+      "src": "audio/5d083d8f6fb6de1d.mp3",
+      "seconds": 2.208
+    },
+    "remember to check": {
+      "src": "audio/d4d96468af516659.mp3",
+      "seconds": 2.16
+    },
+    "remember to do something": {
+      "src": "audio/0309073271863946.mp3",
+      "seconds": 2.496
+    },
+    "remind someone to do something": {
+      "src": "audio/77f960faf5994a57.mp3",
+      "seconds": 2.832
+    },
+    "reply to someone or something": {
+      "src": "audio/ff2b4f4ed1fd26e3.mp3",
+      "seconds": 2.76
+    },
+    "require someone to do something": {
+      "src": "audio/7d806c9bd7023f97.mp3",
+      "seconds": 2.88
+    },
+    "say something to someone": {
+      "src": "audio/150e8a1383de7807.mp3",
+      "seconds": 2.424
+    },
+    "respond to someone or something": {
+      "src": "audio/d1b87f4038c26a02.mp3",
+      "seconds": 2.784
+    },
+    "save for something": {
+      "src": "audio/7766cb6245040057.mp3",
+      "seconds": 2.112
+    },
+    "search for someone or something": {
+      "src": "audio/6d12f45c635e3054.mp3",
+      "seconds": 2.664
+    },
+    "send something to someone": {
+      "src": "audio/68548a937e87c59b.mp3",
+      "seconds": 2.472
+    },
+    "seem to do something": {
+      "src": "audio/0a97af0a0cb50610.mp3",
+      "seconds": 2.328
+    },
+    "show something to someone": {
+      "src": "audio/78c16fb30d042e15.mp3",
+      "seconds": 2.376
+    },
+    "speak to someone": {
+      "src": "audio/6272e397f3e82b05.mp3",
+      "seconds": 2.04
+    },
+    "stop to do something": {
+      "src": "audio/f8f3ea94f2c5e301.mp3",
+      "seconds": 2.352
+    },
+    "suggest doing something": {
+      "src": "audio/35a693bdd2751cb3.mp3",
+      "seconds": 2.52
+    },
+    "suggest something to someone": {
+      "src": "audio/0285be2f350a4e3e.mp3",
+      "seconds": 2.544
+    },
+    "talk to someone": {
+      "src": "audio/d66912f3928c989a.mp3",
+      "seconds": 1.992
+    },
+    "teach someone to do something": {
+      "src": "audio/5f74c6a08375d992.mp3",
+      "seconds": 2.616
+    },
+    "tend to do something": {
+      "src": "audio/44e14924059b0887.mp3",
+      "seconds": 2.256
+    },
+    "tell someone to do something": {
+      "src": "audio/454c7cb387ccf77d.mp3",
+      "seconds": 2.592
+    },
+    "thank someone for something": {
+      "src": "audio/dc1c7ad8529f4ca0.mp3",
+      "seconds": 2.448
+    },
+    "thank someone for doing something": {
+      "src": "audio/9dcd608b690706f7.mp3",
+      "seconds": 2.832
+    },
+    "thank you for helping": {
+      "src": "audio/fb391d1cd09ea900.mp3",
+      "seconds": 2.208
+    },
+    "try to do something": {
+      "src": "audio/471c70a747891d1d.mp3",
+      "seconds": 2.256
+    },
+    "threaten to do something": {
+      "src": "audio/0a8938055ea05a18.mp3",
+      "seconds": 2.424
+    },
+    "turn to someone for something": {
+      "src": "audio/25cf91e95c1db123.mp3",
+      "seconds": 2.544
+    },
+    "wait for a reply": {
+      "src": "audio/cf03ea8bcb5383b9.mp3",
+      "seconds": 2.208
+    },
+    "use something for doing something": {
+      "src": "audio/82b0a688c6ac58aa.mp3",
+      "seconds": 2.88
+    },
+    "wait for someone or something": {
+      "src": "audio/3de13605b6163a9c.mp3",
+      "seconds": 2.592
+    },
+    "wait for someone to do something": {
+      "src": "audio/241ca12bda6a85d1.mp3",
+      "seconds": 2.76
+    },
+    "want someone to do something": {
+      "src": "audio/6d4e5d86c0d17ce5.mp3",
+      "seconds": 2.592
+    },
+    "want to do something": {
+      "src": "audio/f0c970aa00724f7a.mp3",
+      "seconds": 2.256
+    },
+    "warn someone not to do something": {
+      "src": "audio/6c0c585eb11b3545.mp3",
+      "seconds": 2.88
+    },
+    "work for someone or an organisation": {
+      "src": "audio/6f0f1167a2de9fce.mp3",
+      "seconds": 3.168
+    },
+    "write to someone": {
+      "src": "audio/312e9f659bd12e0e.mp3",
+      "seconds": 1.992
+    }
+  }
+}
